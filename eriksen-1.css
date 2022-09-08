@@ -1,0 +1,15 @@
+p {
+  background-color: brown;
+  color: aliceblue;
+  padding: 2rem;
+  line-height: 2rem;
+  text-transform: capitalize;
+}
+h1 {
+  text-transform: uppercase;
+  background-color: brown;
+  color: aliceblue;
+  text-align: center;
+  padding: 2rem;
+  letter-spacing: 1rem;
+}
